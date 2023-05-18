@@ -21,7 +21,7 @@
 ./filter -e images/stadium.bmp   images/stadium_edged.bmp
 ./filter -e images/tower.bmp     images/tower_edged.bmp
 
-# open one of samle images and the created files with filters:
+# open one the created filtered images and the original one:
 eog images/tower_edged.bmp
 eog images/tower_blur.bmp
 eog images/tower_reflected.bmp
